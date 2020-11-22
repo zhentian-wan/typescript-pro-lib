@@ -4,10 +4,11 @@
 
 ```ts
 
-// @public (undocumented)
-export function sum(a: number, b: number): number;
+// @public
+export function avg(a: number, b: number, c: number): number;
 
+// @beta
+export function sum3(a: number, b: number, c: number): number;
 
-// (No @packageDocumentation comment for this package)
 
 ```
